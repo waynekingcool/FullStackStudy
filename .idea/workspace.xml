@@ -21,6 +21,7 @@
     <session id="-330628415">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -61,14 +62,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/基础/函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="513">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <marker date="1537879719671" expanded="true" signature="46:170" ph="..." />
-                <marker date="1537879719671" expanded="true" signature="240:247" ph="..." />
-                <marker date="1537879719671" expanded="true" signature="435:440" ph="..." />
-                <marker date="1537879719671" expanded="true" signature="470:475" ph="..." />
-                <marker date="1537879719671" expanded="true" signature="527:541" ph="..." />
+                <marker date="1537879778766" expanded="true" signature="46:170" ph="..." />
+                <marker date="1537879778766" expanded="true" signature="240:247" ph="..." />
+                <marker date="1537879778766" expanded="true" signature="435:440" ph="..." />
+                <marker date="1537879778766" expanded="true" signature="470:475" ph="..." />
+                <marker date="1537879778766" expanded="true" signature="527:541" ph="..." />
               </folding>
             </state>
           </provider>
@@ -118,7 +119,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="420" />
+    <option name="x" value="391" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -251,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.函数">
+  <component name="RunManager" selected="Python.typeChange">
     <configuration name="字符串切片" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FullStackStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -386,11 +387,9 @@
       <item itemvalue="Python.字符串切片" />
       <item itemvalue="Python.list" />
       <item itemvalue="Python.dict" />
-      <item itemvalue="Python.函数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.函数" />
         <item itemvalue="Python.dict" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.字符串切片" />
@@ -421,7 +420,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.326284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.326284" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,14 +498,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/基础/函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="513">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <marker date="1537879719671" expanded="true" signature="46:170" ph="..." />
-            <marker date="1537879719671" expanded="true" signature="240:247" ph="..." />
-            <marker date="1537879719671" expanded="true" signature="435:440" ph="..." />
-            <marker date="1537879719671" expanded="true" signature="470:475" ph="..." />
-            <marker date="1537879719671" expanded="true" signature="527:541" ph="..." />
+            <marker date="1537879778766" expanded="true" signature="46:170" ph="..." />
+            <marker date="1537879778766" expanded="true" signature="240:247" ph="..." />
+            <marker date="1537879778766" expanded="true" signature="435:440" ph="..." />
+            <marker date="1537879778766" expanded="true" signature="470:475" ph="..." />
+            <marker date="1537879778766" expanded="true" signature="527:541" ph="..." />
           </folding>
         </state>
       </provider>

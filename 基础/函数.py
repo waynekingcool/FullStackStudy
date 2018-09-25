@@ -27,15 +27,22 @@
 
 
 # 函数可以作为参数,函数也可以作为返回值返回,函数在运行期创建
-def func():
-    print('123')
+# def func():
+#     print('123')
+#
+# def testFunc(f):
+#     f()
+#     print('Functon address:',f)
+#
+# def returnF(f):
+#     return f
+# # testFunc(func)
+# returnF(func)()
 
-def testFunc(f):
-    f()
-    print('Functon address:',f)
 
-def returnF(f):
-    return f
-# testFunc(func)
-returnF(func)()
-# 222
+# 闭包: 嵌套函数,内部函数调用外部函数的变量,强制引用,保存在内存中,降低内存
+def outer():
+    a = 1
+    def inner():
+        print(a)
+    return inner
