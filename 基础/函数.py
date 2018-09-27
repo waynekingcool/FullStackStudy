@@ -41,8 +41,63 @@
 
 
 # 闭包: 嵌套函数,内部函数调用外部函数的变量,强制引用,保存在内存中,降低内存
-def outer():
-    a = 1
-    def inner():
-        print(a)
+# def outer():
+#     a = 1
+#     def inner():
+#         print(a)
+#     return inner
+
+# 装饰器的作用: 改变行为
+
+import time
+
+# def timmer(f):
+#     def inner(a,b):
+#         start = time.time()
+#         ret = f(a,b)
+#         end = time.time()
+#         print(end-start)
+#         return ret
+#     return inner
+
+# 语法糖
+# @timmer
+# def func(a,b):
+#     time.sleep(0.01)
+#     print('啊,mac有杂声了 %s %s' %(a,b))
+#     return '不会坏了吧'
+
+
+# f = timmer(func)
+# ret = f()
+# print(ret)
+# ret = func(a=1,b=2)
+# print(ret)
+
+
+# 带任意参数的装饰器
+def wrapper(f):
+    def inner(*args,**kwargs):
+        start = time.time()
+        ret = f(*args,**kwargs)
+        end = time.time()
+        print(end-start)
+        return ret
     return inner
+
+@wrapper
+def func(a,b):
+    print('a:%s b:%s' %(a,b))
+    return '这是返回值啊'
+
+@wrapper
+def func2(a):
+    print('a:%s' %(a))
+    return '这是另一个返回值啊'
+
+ret = func(1,b=2)
+print(ret)
+
+ret = func2(a=1)
+print(ret)
+
