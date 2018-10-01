@@ -57,4 +57,6 @@ str = 'eva egon yuan'
 # {n,m}表示重复n-m次
 # {n,}表示重复n次或者更多
 
-
+from 基础.类 import Person
+p = Person('abc','18','gb')
+p.play()
