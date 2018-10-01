@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f486195-049f-415c-986e-35babe0c7e34" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f486195-049f-415c-986e-35babe0c7e34" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FullStackStudy$.coverage" NAME="内置函数 Coverage Results" MODIFIED="1538232172434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础" />
+    <SUITE FILE_PATH="coverage/FullStackStudy$.coverage" NAME="正则表达式 Coverage Results" MODIFIED="1538357520426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础" />
     <SUITE FILE_PATH="coverage/FullStackStudy$list.coverage" NAME="list Coverage Results" MODIFIED="1537691265487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/FullStackStudy$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1537683799339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/FullStackStudy$dict.coverage" NAME="dict Coverage Results" MODIFIED="1537753366656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
@@ -21,68 +19,43 @@
     <session id="-330628415">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3450" />
+          <entry key="py" value="4006" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3450" />
+          <entry key="Python" value="4006" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/生成器进阶.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-              <folding>
-                <marker date="1538138638639" expanded="true" signature="44:49" ph="..." />
-                <marker date="1538138638639" expanded="true" signature="191:196" ph="..." />
-                <marker date="1538138638639" expanded="true" signature="486:491" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/推导式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/基础/内置函数.py">
+        <entry file="file://$PROJECT_DIR$/基础/正则表达式.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <marker date="1538232172426" expanded="true" signature="77:84" ph="..." />
-              </folding>
+            <state relative-caret-position="411">
+              <caret line="32" selection-start-line="32" selection-start-column="2" selection-end-line="34" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -115,6 +88,7 @@
     <setting file="file://$PROJECT_DIR$/基础/函数.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/基础/生成器.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/基础/迭代器.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/基础/正则表达式.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/基础/内置函数.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/基础/推导式.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/基础/list.py" root0="SKIP_INSPECTION" />
@@ -136,6 +110,7 @@
         <option value="$PROJECT_DIR$/基础/生成器进阶.py" />
         <option value="$PROJECT_DIR$/基础/推导式.py" />
         <option value="$PROJECT_DIR$/基础/内置函数.py" />
+        <option value="$PROJECT_DIR$/基础/正则表达式.py" />
       </list>
     </option>
   </component>
@@ -146,7 +121,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="424" />
+    <option name="x" value="423" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -281,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.内置函数">
+  <component name="RunManager" selected="Python.正则表达式">
     <configuration name="生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FullStackStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,6 +271,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/生成器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="正则表达式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FullStackStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/正则表达式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -503,11 +500,11 @@
       <item itemvalue="Python.typeChange" />
       <item itemvalue="Python.dict" />
       <item itemvalue="Python.生成器" />
-      <item itemvalue="Python.内置函数" />
+      <item itemvalue="Python.正则表达式" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.内置函数" />
+        <item itemvalue="Python.正则表达式" />
         <item itemvalue="Python.生成器" />
         <item itemvalue="Python.typeChange" />
         <item itemvalue="Python.dict" />
@@ -528,7 +525,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="424" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="423" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.1615509" />
@@ -634,6 +631,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/272485331/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="477" column="4" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/基础/生成器进阶.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -648,15 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/基础/推导式.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="476">
           <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/272485331/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="477" column="4" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -667,6 +664,13 @@
           <folding>
             <marker date="1538232172426" expanded="true" signature="77:84" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础/正则表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="32" selection-start-line="32" selection-start-column="2" selection-end-line="34" selection-end-column="22" />
         </state>
       </provider>
     </entry>
